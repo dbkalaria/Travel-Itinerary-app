@@ -1,0 +1,19 @@
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#0395DA</color>
+    <color name="colorBackground">#FAFAFA</color>
+    <color name="colorCardBackground">#FFFFFF</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorTextHint">#BDBDBD</color>
+    <color name="colorCheckbox">#6200EE</color>
+    <color name="colorTabIndicator">#6200EE</color>
+    <color name="colorButton">#6200EE</color>
+    <color name="colorButtonText">#FFFFFF</color>
+
+    <!-- Add missing colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="background_color">#FAFAFA</color>
+</resources>

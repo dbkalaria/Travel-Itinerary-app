@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme -->
+    <style name="Theme.TravelItineraryPlanner" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorSurface">@color/colorCardBackground</item>
+        <item name="colorOnPrimary">@color/colorButtonText</item>
+        <item name="colorOnSecondary">@color/colorTextPrimary</item>
+        <item name="colorOnBackground">@color/colorTextPrimary</item>
+        <item name="colorOnSurface">@color/colorTextPrimary</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:backgroundTint">@color/colorButton</item>
+        <item name="android:textColor">@color/colorButtonText</item>
+    </style>
+
+    <style name="SpinnerStyle">
+        <item name="android:backgroundTint">@color/colorButton</item>
+        <item name="android:textColor">@color/colorButtonText</item>
+    </style>
+
+</resources>
